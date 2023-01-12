@@ -18,13 +18,13 @@ Epoch 5: | Train Loss: 0.04956 | Test Loss: 0.24033 \
 Epoch 6: | Train Loss: 0.04338 | Test Loss: 0.17115 \
 Epoch 7: | Train Loss: 0.03997 | Test Loss: 0.14499 \
 Epoch 8: | Train Loss: 0.03771 | Test Loss: 0.16685 \
-Epoch 9: | Train Loss: 0.03233 | Test Loss: 0.20463 \
+Epoch 9: | Train Loss: 0.03233 | Test Loss: 0.20463 
 
 
 # Model performance 
 
 Accuracy on Train Data - Label:  0.996 \
-Accuracy on Train Data - Sum:  0.993 \
+Accuracy on Train Data - Sum:  0.993 
 
 Accuracy on Test Data - Label:  0.992 \
 Accuracy on Test Data - Sum:  0.99
